@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookWebApi", "AddressBookWebApi.csproj", "{7A327B60-A979-46E7-9C31-E6340A6930EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A327B60-A979-46E7-9C31-E6340A6930EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A327B60-A979-46E7-9C31-E6340A6930EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A327B60-A979-46E7-9C31-E6340A6930EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A327B60-A979-46E7-9C31-E6340A6930EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3B7D3F2-E37D-4E8D-AAF3-56A8AD0DF5E9}
+	EndGlobalSection
+EndGlobal
